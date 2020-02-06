@@ -1,644 +1,858 @@
 {
 	"一": { 
-		"en": "one"
+		"en": "one",
+		"fr": "un"
 	},
 	"丨": { 
-		"en": "line"
+		"en": "line",
+		"fr": "ligne"
 	},
 	"丶": { 
-		"en": "dot"
+		"en": "dot",
+		"fr": "point"
 	},
 	"丿": { 
-		"en": "slash"
+		"en": "slash",
+		"fr": "oblique"
 	},
 	"乙": { 
-		"en": "second"
+		"en": "second",
+		"fr": "second"
 	},
 	"亅": { 
-		"en": "hook"
+		"en": "hook",
+		"fr": "crochet"
 	},
 	"二": { 
-		"en": "two"
+		"en": "two",
+		"fr": "deux"
 	},
 	"亠": { 
-		"en": "lid"
+		"en": "lid",
+		"fr": "couvercle"
 	},
 	"人" : {
-		"en": "person"
+		"en": "person",
+		"fr": "homme"
 	},
 	"儿" : {
-		"en": "legs"
+		"en": "legs",
+		"fr": "enfant, jambes"
 	},
 	"入": {
-		"en": "enter"
+		"en": "enter",
+		"fr": "entrer"
 	},
 	"八": {
-		"en": "eight"
+		"en": "eight",
+		"fr": "huit, diviser"
 	},
 	"冂": {
-		"en": "down box"
+		"en": "down box",
+		"fr": "boîte retournée"
 	},	
 	"冖": {
-		"en": "cover"
+		"en": "cover",
+		"fr": "couverture"
 	},	
 	"冫": {
-		"en": "ice"
+		"en": "ice",
+		"fr": "glace"
 	},	
 	"几": {
-		"en": "table"
+		"en": "table",
+		"fr": "table"
 	},	
 	"凵": {
-		"en": "open box"
+		"en": "open box",
+		"fr": "boîte, bouche ouverte"
 	},
 	"刀": {
-		"en": "knife"
+		"en": "knife",
+		"fr": "couteau"
 	},
 	"力": {
-		"en": "power"
+		"en": "power",
+		"fr": "force"
 	},	
 	"勹": {
-		"en": "wrap"
+		"en": "wrap",
+		"fr": "envelopper"
 	},		
 	"匕": {
-		"en": "ladle"
+		"en": "ladle",
+		"fr": "cuillère"
 	},	
 	"匚": {
-		"en": "right open box"
+		"en": "right open box",
+		"fr": "boîte ouverte à droite"
 	},	
 	"匸": {
-		"en": "hiding enclosure"
+		"en": "hiding enclosure",
+		"fr": "fermeture cachée"
 	},	
 	"十": {
-		"en": "ten"
+		"en": "ten",
+		"fr": "dix, complet"
 	},	
 	"卜": {
-		"en": "divination"
+		"en": "divination",
+		"fr": "divination"
 	},	
 	"卩": {
-		"en": "seal"
+		"en": "seal",
+		"fr": "sceau"
 	},	
 	"厂": {
-		"en": "cliff"
+		"en": "cliff",
+		"fr": "falaise"
 	},	
 	"厶": {
-		"en": "private"
+		"en": "private",
+		"fr": "privé"
 	},		
 	"又": {
-		"en": "again"
+		"en": "again",
+		"fr": "main droite, encore"
 	},	
 	"口": {
-		"en": "mouth"
+		"en": "mouth",
+		"fr": "bouche"
 	},		
 	"囗": {
-		"en": "enclosure"
+		"en": "enclosure",
+		"fr": "enclos"
 	},		
 	"土": {
-		"en": "earth"
+		"en": "earth",
+		"fr": "terre"
 	},
 	"士": {
-		"en": "scholar"
+		"en": "scholar",
+		"fr": "savant, lettré"
 	},		
 	"夂": {
-		"en": "go"
+		"en": "go",
+		"fr": "aller"
 	},	
 	"夊": {
-		"en": "go slowly"
+		"en": "go slowly",
+		"fr": "aller lentement"
 	},	
 	"夕": {
-		"en": "night"
+		"en": "night",
+		"fr": "soir"
 	},	
 	"大": {
-		"en": "big"
+		"en": "big",
+		"fr": "grand, gros, très"
 	},				
 	"女": {
-		"en": "woman"
+		"en": "woman",
+		"fr": "femme"
 	},	
 	"子": {
-		"en": "child"
+		"en": "child",
+		"fr": "enfant, graine"
 	},	
 	"宀": {
-		"en": "roof"
+		"en": "roof",
+		"fr": "toit"
 	},		
 	"寸": {
-		"en": "inch"
+		"en": "inch",
+		"fr": "pouce"
 	},	
 	"小": {
-		"en": "small"
+		"en": "small",
+		"fr": "petit"
 	},	
 	"尢": {
-		"en": "lame"
+		"en": "lame",
+		"fr": "courbé"
 	},	
 	"尸": {
-		"en": "corpse"
+		"en": "corpse",
+		"fr": "corps, cadavre"
 	},		
 	"屮": {
-		"en": "sprout"
+		"en": "sprout",
+		"fr": "pousser"
 	},	
 	"山": {
-		"en": "mountain"
+		"en": "mountain",
+		"fr": "montagne"
 	},
 	"川": {
-		"en": "river"
+		"en": "river",
+		"fr": "rivière"
 	},	
 	"工": {
-		"en": "work"
+		"en": "work",
+		"fr": "travail"
 	},		
 	"己": {
-		"en": "oneself"
+		"en": "oneself",
+		"fr": "soi-même"
 	},		
 	"巾": {
-		"en": "towel"
+		"en": "towel",
+		"fr": "turban, écharpe"
 	},	
 	"干": {
-		"en": "dry"
+		"en": "dry",
+		"fr": "sécher"
 	},		
 	"幺": {
-		"en": "thread"
+		"en": "thread", 
+		"fr": "fil court"
 	},	
 	"广": {
-		"en": "shelter"
+		"en": "shelter",
+		"fr": "maison sur une falaise"
 	},		
 	"廴": {
-		"en": "stride"
+		"en": "stride",
+		"fr": "longue enjambée"
 	},		
 	"廾": {
-		"en": "hands joined"
+		"en": "hands joined",
+		"fr": "deux maine, vingt"
 	},
 	"弋": {
-		"en": "shoot with a bow"
+		"en": "shoot with a bow",
+		"fr": "tir"
 	},	
 	"弓": {
-		"en": "bow"
+		"en": "bow",
+		"fr": "arc"
 	},	
 	"彐": {
-		"en": "snout"
+		"en": "snout",
+		"fr": "groin"
 	},	
 	"彡": {
-		"en": "hair"
+		"en": "hair",
+		"fr": "soies, poils"
 	},		
 	"彳": {
-		"en": "step"
+		"en": "step",
+		"fr": "pas"
 	},		
 	"心": {
-		"en": "heart"
+		"en": "heart",
+		"fr": "cœur"
 	},	
 	"戈": {
-		"en": "spear"
+		"en": "spear",
+		"fr": "hallebarde"
 	},		
 	"户": {
-		"en": "door"
+		"en": "door",
+		"fr": "porte"
 	},		
 	"手": {
-		"en": "hand"
+		"en": "hand",
+		"fr": "main"
 	},
 	"支": {
-		"en": "branch"
+		"en": "branch",
+		"fr": "branche"
 	},	
 	"攴": {
-		"en": "rap"
+		"en": "rap",
+		"fr": "frapper"
 	},	
 	"文": {
-		"en": "script"
+		"en": "script",
+		"fr": "écriture"
 	},	
 	"斗": {
-		"en": "dipper"
+		"en": "dipper",
+		"fr": "plongeur"
 	},		
 	"斤": {
-		"en": "axe"
+		"en": "axe",
+		"fr": "hache"
 	},	
 	"方": {
-		"en": "square"
+		"en": "square",
+		"fr": "carré"
 	},	
 	"无": {
-		"en": "not"
+		"en": "not",
+		"fr": "manque, ne pas"
 	},			
 	"日": {
-		"en": "sun"
+		"en": "sun",
+		"fr": "soleil"
 	},	
 	"曰": {
-		"en": "say"
+		"en": "say",
+		"fr": "dire"
 	},		
 	"月": {
-		"en": "moon"
+		"en": "moon",
+		"fr": "lune"
 	},	
 	"木": {
-		"en": "tree"
+		"en": "tree",
+		"fr": "arbre"
 	},		
 	"欠": {
-		"en": "lack"
+		"en": "lack",
+		"fr": "bâillement"
 	},	
 	"止": {
-		"en": "stop"
+		"en": "stop",
+		"fr": "arrêt"
 	},		
 	"歹": {
-		"en": "death"
+		"en": "death",
+		"fr": "mort"
 	},		
 	"殳": {
-		"en": "weapon"
+		"en": "weapon",
+		"fr": "arme"
 	},		
 	"母": {
-		"en": "mother"
+		"en": "mother",
+		"fr": "ne pas faire, mère"
 	},	
 	"比": {
-		"en": "compare"
+		"en": "compare",
+		"fr": "comparer"
 	},	
 	"毛": {
-		"en": "fur"
+		"en": "fur",
+		"fr": "poil"
 	},		
 	"氏": {
-		"en": "clan"
+		"en": "clan",
+		"fr": "clan"
 	},	
 	"气": {
-		"en": "steam"
+		"en": "steam",
+		"fr": "vapeur, souffle"
 	},	
 	"水": {
-		"en": "water"
+		"en": "water",
+		"fr": "eau"
 	},	
 	"火": {
-		"en": "fire"
+		"en": "fire",
+		"fr": "feu"
 	},	
 	"爪": {
-		"en": "claw"
+		"en": "claw",
+		"fr": "griffe"
 	},
 	"父": {
-		"en": "father"
+		"en": "father",
+		"fr": "père"
 	},
 	"爻": {
-		"en": "lines on a trigram"
+		"en": "lines on a trigram",
+		"fr": "double croix"
 	},
 	"爿": {
-		"en": "half of a tree trunk"
+		"en": "half of a tree trunk",
+		"fr": "bois fendu"
 	},
 	"片": {
-		"en": "slice"
+		"en": "slice",
+		"fr": "tranche"
 	},
 	"牙": {
-		"en": "tooth"
+		"en": "tooth",
+		"fr": "croc"
 	},
 	"牛": {
-		"en": "cow"
+		"en": "cow",
+		"fr": "vache"
 	},
 	"犭": {
-		"en": "dog"
+		"en": "dog",
+		"fr": "chien"
 	},	
 	"玄": {
-		"en": "profound"
+		"en": "profound",
+		"fr": "sombre, profond"
 	},
 	"玉": {
-		"en": "jade"
+		"en": "jade",
+		"fr": "jade"
 	},
 	"瓜": {
-		"en": "melon"
+		"en": "melon",
+		"fr": "melon"
 	},
 	"瓦": {
-		"en": "tile"
+		"en": "tile",
+		"fr": "tuile"
 	},
 	"甘": {
-		"en": "sweet"
+		"en": "sweet",
+		"fr": "doux"
 	},
 	"生": {
-		"en": "life"
+		"en": "life",
+		"fr": "vie"
 	},
 	"用": {
-		"en": "use"
+		"en": "use",
+		"fr": "utiliser"
 	},	
 	"田": {
-		"en": "field"
+		"en": "field",
+		"fr": "champ"
 	},
 	"疋": {
-		"en": "cloth"
+		"en": "cloth",
+		"fr": "boucle de vêtement"
 	},
 	"疒": {
-		"en": "ill"
+		"en": "ill",
+		"fr": "maladie"
 	},	 
 	"癶": {
-		"en": "foot steps"
+		"en": "foot steps",
+		"fr": "empreintes de pas"
 	},	
 	"白": {
-		"en": "white"
+		"en": "white",
+		"fr": "blanc"
 	},
 	"皮": {
-		"en": "skin"
+		"en": "skin",
+		"fr": "peau"
 	},
 	"皿": {
-		"en": "dish"
+		"en": "dish",
+		"fr": "plat"
 	},
 	"目": {
-		"en": "eye"
+		"en": "eye",
+		"fr": "œil"
 	},	
 	"矛": {
-		"en": "spear"
+		"en": "spear",
+		"fr": "lance"
 	},
 	"矢": {
-		"en": "arrow"
+		"en": "arrow",
+		"fr": "flèche"
 	},
 	"石": {
-		"en": "stone"
+		"en": "stone",
+		"fr": "pierre"
 	},
 	"示": {
-		"en": "spirit"
+		"en": "spirit",
+		"fr": "esprit"
 	},
 	"禸": {
-		"en": "track"
+		"en": "track",
+		"fr": "piste"
 	},
 	"禾": {
-		"en": "grain"
+		"en": "grain",
+		"fr": "grain"
 	},
 	"穴": {
-		"en": "cave"
+		"en": "cave",
+		"fr": "cavité"
 	},
 	"立": {
-		"en": "stand"
+		"en": "stand",
+		"fr": "debout, ériger"
 	},
 	"竹": {
-		"en": "bamboo"
+		"en": "bamboo",
+		"fr": "bambou"
 	},
 	"米": {
-		"en": "rice"
+		"en": "rice",
+		"fr": "riz"
 	},
 	"纟": {
-		"en": "silk"
+		"en": "silk",
+		"fr": "soie"
 	},
 	"缶": {
-		"en": "jar"
+		"en": "jar",
+		"fr": "jarre"
 	},	
 	"网": {
-		"en": "net"
+		"en": "net",
+		"fr": "réseau"
 	},	
 	"羊": {
-		"en": "sheep"
+		"en": "sheep",
+		"fr": "moutoun"
 	},
 	"羽": {
-		"en": "feather"
+		"en": "feather",
+		"fr": "plume"
 	},	
 	"老": {
-		"en": "old"
+		"en": "old",
+		"fr": "vieux"
 	},	
 	"而": {
-		"en": "and"
+		"en": "and",
+		"fr": "et"
 	},	
 	"耒": {
-		"en": "plow"
+		"en": "plow",
+		"fr": "charrue"
 	},
 	"耳": {
-		"en": "ear"
+		"en": "ear",
+		"fr": "oreille"
 	},	
 	"聿": {
-		"en": "brush"
+		"en": "brush",
+		"fr": "pinceau"
 	},
 	"肉": {
-		"en": "meat"
+		"en": "meat",
+		"fr": "viande"
 	},
 	"臣": {
-		"en": "minister"
+		"en": "minister",
+		"fr": "minister"
 	},
 	"自": {
-		"en": "oneself"
+		"en": "oneself",
+		"fr": "soi-même"
 	},	
 	"至": {
-		"en": "arrive"
+		"en": "arrive",
+		"fr": "arriver"
 	},
 	"臼": {
-		"en": "mortar"
+		"en": "mortar",
+		"fr": "mortier"
 	},	
 	"舌": {
-		"en": "tongue"
+		"en": "tongue",
+		"fr": "langue (organe)"
 	},
 	"舛": {
-		"en": "contrary"
+		"en": "contrary",
+		"fr": "opposé"
 	},
 	"舟": {
-		"en": "boat"
+		"en": "boat",
+		"fr": "bateau"
 	},
 	"艮": {
-		"en": "mountain"
+		"en": "stopping",
+		"fr": "arrêter"
 	},
 	"色": {
-		"en": "color"
+		"en": "color",
+		"fr": "couleur"
 	},
 	"艹": {
-		"en": "grass"
+		"en": "grass",
+		"fr": "herbe"
 	},
 	"虍": {
-		"en": "tiger"
+		"en": "tiger",
+		"en": "tigre"
 	},	
 	"虫": {
-		"en": "insect"
+		"en": "insect",
+		"fr": "insecte"
 	},	
 	"血": {
-		"en": "blood"
+		"en": "blood",
+		"fr": "sang"
 	},	
 	"行": {
-		"en": "walk"
+		"en": "go, do",
+		"fr": "aller, faire"
 	},
 	"衣": {
-		"en": "clothes"
+		"en": "clothes",
+		"fr": "vêtement"
 	},	
 	"西": {
-		"en": "west"
+		"en": "west",
+		"fr": "ouest"
 	},
 	"见": {
-		"en": "see"
+		"en": "see",
+		"fr": "voir"
 	},	
 	"角": {
-		"en": "horn"
+		"en": "horn",
+		"fr": "corne"
 	},
 	"讠": {
-		"en": "speech"
+		"en": "speech",
+		"fr": "parole"
 	},	
 	"谷": {
-		"en": "valley"
+		"en": "valley",
+		"fr": "vallée"
 	},	
 	"豆": {
-		"en": "bean"
+		"en": "bean",
+		"fr": "haricot"
 	},
 	"豕": {
-		"en": "pig"
+		"en": "pig",
+		"fr": "porc"
 	},	
 	"豸": {
-		"en": "badger"
+		"en": "badger",
+		"fr": "chat, blaireau "
 	},	
 	"贝": {
-		"en": "shell"
+		"en": "shell",
+		"fr": "coquillage"
 	},	
 	"赤": {
-		"en": "red"
+		"en": "red",
+		"fr": "rouge"
 	},	
 	"走": {
-		"en": "walk"
+		"en": "run",
+		"fr": "courir"
 	},
 	"足": {
-		"en": "foot"
+		"en": "foot",
+		"fr": "pied"
 	},
 	"身": {
-		"en": "body"
+		"en": "body",
+		"fr": "corps"
 	},
 	"车": {
-		"en": "cart"
+		"en": "cart",
+		"fr": "charrue"
 	},
 	"辛": {
-		"en": "bitter"
+		"en": "bitter",
+		"fr": "laborieux, amère"
 	},	
 	"辰": {
-		"en": "morning"
+		"en": "morning",
+		"fr": "matin"
 	},	
 	"辶": {
-		"en": "walk"
+		"en": "walk",
+		"fr": "marche"
 	},
 	"邑": {
-		"en": "city"
+		"en": "city",
+		"fr": "ville"
 	},
 	"酉": {
-		"en": "wine"
+		"en": "wine",
+		"fr": "vin, alcool"
 	},
 	"釆": {
-		"en": "distinguish"
+		"en": "distinguish",
+		"fr": "distinguer"
 	},	
 	"里": {
-		"en": "village"
+		"en": "village",
+		"fr": "village, voisinage"
 	},	
 	"钅": {
-		"en": "metal"
+		"en": "metal",
+		"fr": "métal, or"
 	},	
 	"长": {
-		"en": "long"
+		"en": "long",
+		"fr": "long"
 	},
 	"门": {
-		"en": "gate"
+		"en": "gate",
+		"fr": "porte"
 	},
 	"阜": {
-		"en": "mound"
+		"en": "mound",
+		"fr": "butte"
 	},
 	"隶": {
-		"en": "slave"
+		"en": "slave",
+		"fr": "esclave"
 	},	
 	"隹": {
-		"en": "short-tailed bird"
+		"en": "short-tailed bird",
+		"fr": "oiseau à queue courte"
 	},	
 	"雨": {
-		"en": "rain"
+		"en": "rain",
+		"fr": "pluie"
 	},	
 	"青": {
-		"en": "blue"
+		"en": "blue",
+		"fr": "bleu"
 	},
 	"非": {
-		"en": "wrong"
+		"en": "wrong",
+		"fr": "faux"
 	},
 	"面": {
-		"en": "face"
+		"en": "face",
+		"fr": "visage"
 	},
 	"革": {
-		"en": "leather"
+		"en": "leather",
+		"fr": "cuir"
 	},	
 	"韦": {
-		"en": "soft leather"
+		"en": "soft leather",
+		"fr": "cuir tanné"
 	},
 	"韭": {
-		"en": "leek"
+		"en": "leek",
+		"fr": "ail"
 	},	
 	"音": {
-		"en": "sound"
+		"en": "sound",
+		"fr": "son"
 	},
 	"页": {
-		"en": "page"
+		"en": "page",
+		"fr": "feuille"
 	},
 	"风": {
-		"en": "wind"
+		"en": "wind",
+		"fr": "vent"
 	},
 	"飞": {
-		"en": "fly"
+		"en": "fly",
+		"fr": "voler"
 	},	
 	"饣": {
-		"en": "eat"
+		"en": "eat",
+		"fr": "manger"
 	},	
 	"首": {
-		"en": "head"
+		"en": "head",
+		"fr": "tête"
 	},
 	"香": {
-		"en": "fragrant"
+		"en": "fragrant",
+		"fr": "parfumé"
 	},
 	"马": {
-		"en": "horse"
+		"en": "horse",
+		"fr": "cheval"
 	},
 	"骨": {
-		"en": "bone"
+		"en": "bone",
+		"fr": "os"
 	},
 	"高": {
-		"en": "high"
+		"en": "high",
+		"fr": "grand, haut"
 	},
 	"髟": {
-		"en": "long hair"
+		"en": "long hair",
+		"fr": "longs cheveux"
 	},
 	"鬥": {
-		"en": "fight"
+		"en": "fight",
+		"fr": "combat"
 	},
 	"鬯": {
-		"en": "sacrificial wine"
+		"en": "sacrificial wine",
+		"fr": "vin sacrificiel"
 	},	
 	"鬲": {
-		"en": "cauldron"
+		"en": "cauldron",
+		"fr": "chaudron tripode"
 	},
 	"鬼": {
-		"en": "ghost"
+		"en": "ghost",
+		"fr": "fantôme"
 	},
 	"鱼": {
-		"en": "fish"
+		"en": "fish",
+		"fr": "poisson"
 	},
 	"鸟": {
-		"en": "bird"
+		"en": "bird",
+		"fr": "oiseau"
 	},
 	"卤": {
-		"en": "salty"
+		"en": "salty",
+		"fr": "sel"
 	},	
 	"鹿": {
-		"en": "deer"
+		"en": "deer",
+		"fr": "cervidé"
 	},
 	"麦": {
-		"en": "wheat"
+		"en": "wheat",
+		"fr": "froment"
 	},
 	"麻": {
-		"en": "hemp"
+		"en": "hemp",
+		"fr": "chanvre"
 	},	
 	"黄": {
-		"en": "yellow"
+		"en": "yellow",
+		"fr": "jaune"
 	},	
 	"黍": {
-		"en": "millet"
+		"en": "millet",
+		"fr": "millet"
 	},	
 	"黑": {
-		"en": "black"
+		"en": "black",
+		"fr": "noir"
 	},
 	"黹": {
-		"en": "embroidery"
+		"en": "embroidery",
+		"fr": "tricot"
 	},	
 	"黾": {
-		"en": "frog"
+		"en": "frog",
+		"fr": "amphibien"
 	},
 	"鼎": {
-		"en": "tripod"
+		"en": "tripod",
+		"fr": "tripode"
 	},	
 	"鼓": {
-		"en": "drum"
+		"en": "drum",
+		"fr": "tambour"
 	},
 	"鼠": {
-		"en": "rat"
+		"en": "rat",
+		"fr": "rat"
 	},	
 	"鼻": {
-		"en": "nose"
+		"en": "nose",
+		"fr": "nez"
 	},
 	"齐": {
-		"en": "even"
+		"en": "even",
+		"fr": "uniformément"
 	},
 	"齿": {
-		"en": "tooth"
+		"en": "tooth",
+		"fr": "dent"
 	},
 	"龙": {
-		"en": "dragon"
+		"en": "dragon",
+		"fr": "dragon"
 	},	
 	"龟": {
-		"en": "turtle"
+		"en": "turtle",
+		"fr": "tortue"
 	},	
 	"龠": {
-		"en": "flute"
+		"en": "flute",
+		"fr": "flute, pot de mesure"
 	}
 }
