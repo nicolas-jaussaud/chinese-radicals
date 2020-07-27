@@ -248,7 +248,7 @@
 		"fr": "hallebarde"
 	},		
 	"户": {
-		"en": "door",
+		"en": "door, home",
 		"fr": "porte, maison"
 	},		
 	"手": {
@@ -524,7 +524,7 @@
 		"fr": "ministre"
 	},
 	"自": {
-		"en": "oneself",
+		"en": "oneself, nose",
 		"fr": "soi-même, nez"
 	},	
 	"至": {
@@ -564,7 +564,7 @@
 		"fr": "tigre"
 	},	
 	"虫": {
-		"en": "insect",
+		"en": "snake, insect",
 		"fr": "serpent, insecte"
 	},	
 	"血": {
@@ -692,7 +692,7 @@
 		"fr": "pluie"
 	},	
 	"青": {
-		"en": "blue",
+		"en": "green, blue",
 		"fr": "vert, bleu"
 	},
 	"非": {
