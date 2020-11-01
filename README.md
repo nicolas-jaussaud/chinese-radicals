@@ -2,6 +2,7 @@
 
 ### Common:
 - https://wikipedia.org/
+- https://www.yellowbridge.com/chinese/radicals.php
 
 ### English:
 - https://www.archchinese.com/arch_chinese_radicals.html
