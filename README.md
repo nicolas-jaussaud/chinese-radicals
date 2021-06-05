@@ -10,3 +10,6 @@
 ### Français:
 - http://parlezchinois.free.fr/radicaux.pdf
 - https://www.amazon.fr/Méthode-90-chinois-Pratique-base/dp/2253065838/
+
+### Español:
+- https://www.hanzibox.com/lista-de-radicales-chinos/
