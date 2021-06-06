@@ -27,7 +27,7 @@
     "pinyin": "piě",
     "name": {
       "en": "slash",
-      "es": "trazo barrido",
+      "es": "acuchillar",
       "fr": "oblique"
     }
   },
@@ -107,7 +107,7 @@
     "pinyin": "mì",    
     "name": {
       "en": "cover",
-      "es": "cubrir",
+      "es": "cubierta",
       "fr": "couverture"
     }
   },
@@ -147,7 +147,7 @@
     "pinyin": "lì",
     "name": {
       "en": "power",
-      "es": "fuerza",
+      "es": "energía",
       "fr": "force"
     }
   },
@@ -179,7 +179,7 @@
     "pinyin": "xǐ",
     "name": {
       "en": "hiding enclosure",
-      "es": "recinto oculto",
+      "es": "cercado que esconde",
       "fr": "fermeture cachée"
     }
   },
@@ -243,7 +243,7 @@
     "pinyin": "wéi",
     "name": {
       "en": "enclosure",
-      "es": "recinto",
+      "es": "cercado",
       "fr": "enclos"
     }
   },
@@ -339,7 +339,7 @@
     "pinyin": "yóu",
     "name": {
       "en": "lame",
-      "es": "cojo",
+      "es": "tullido",
       "fr": "boîteux"
     }
   },
@@ -411,7 +411,7 @@
     "pinyin": "yāo",
     "name": {
       "en": "thread",
-      "es": "rosca corta",
+      "es": "hilo",
       "fr": "fil court"
     }
   },
@@ -611,7 +611,7 @@
     "pinyin": "zhǐ",
     "name": {
       "en": "stop",
-      "es": "parar",
+      "es": "detenerse",
       "fr": "arrêt"
     }
   },
@@ -803,7 +803,7 @@
     "pinyin": "yòng",
     "name": {
       "en": "use",
-      "es": "uso",
+      "es": "usar",
       "fr": "utiliser"
     }
   },
@@ -1028,7 +1028,7 @@
     "pinyin": "yù",
     "name": {
       "en": "brush",
-      "es": "pincel",
+      "es": "cepillo",
       "fr": "pinceau"
     }
   },
@@ -1206,7 +1206,7 @@
     "pinyin": "dòu",
     "name": {
       "en": "bean",
-      "es": "habichuela",
+      "es": "frijol",
       "fr": "haricot"
     }
   },
@@ -1230,7 +1230,7 @@
     "pinyin": "bèi",
     "name": {
       "en": "shell",
-      "es": "concha",
+      "es": "cáscara",
       "fr": "coquillage"
     },
     "traditional": "貝"
@@ -1402,7 +1402,7 @@
     "pinyin": "fēi",
     "name": {
       "en": "wrong",
-      "es": "erróneo",
+      "es": "mal",
       "fr": "faux"
     }
   },
